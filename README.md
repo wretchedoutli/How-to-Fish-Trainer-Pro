@@ -4,21 +4,21 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue)
 ![Downloads](https://img.shields.io/github/downloads/wretchedoutli/How-to-Fish-Trainer-Pro/total)
 
-#**📖 Contents**
+# **📖 Contents**
 
 - [✨ Features](##-features)
 - [📦 Installation](##-installation)
 - [📜 Disclaimer](##-disclaimer)
 - [⭐ Support](##-support)
 
-#⚙️ **Features**
+# ⚙️ **Features**
 
 *— Faster fishing-related interactions*
 *— Optimised reel operation*
 *— Various gameplay adjustments relating to fishing*
 *— Reduced waiting times and repetitive actions*
 
-#**📦 Installation**
+# **📦 Installation**
 
 ### 1. Download
 
@@ -34,10 +34,10 @@ Download the latest archive from the [Releases page](https://github.com/wretched
 > [!NOTE]
 > ⚠️ Modding tools can sometimes trigger antivirus warnings because they interact with game files.
 
-#**📜 Disclaimer**
+# **📜 Disclaimer**
 
 Unofficial fan-made trainer. Not affiliated with the game's developers.
 
-#**⭐ Support**
+# **⭐ Support**
 
 If you find this project useful, consider giving the repository a ⭐ star.
