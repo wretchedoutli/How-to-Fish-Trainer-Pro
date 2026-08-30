@@ -42,3 +42,21 @@ Unofficial fan-made trainer. Not affiliated with the game's developers.
 # **⭐ Support**
 
 If you find this project useful, consider giving the repository a ⭐ star.
+
+## **📌 Tags**
+
+- how-to-fish
+- how-to-fish-trainer
+- how-to-fish-tools
+- how-to-fish-pc
+- how-to-fish-windows
+- game-trainer
+- game-tools
+- game-utility
+- gaming-tools
+- gaming-utilities
+- pc-game
+- windows-game
+- pc-gaming
+- game-utilities
+- trainer
