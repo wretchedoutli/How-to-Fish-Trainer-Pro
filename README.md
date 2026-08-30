@@ -13,10 +13,10 @@
 
 # ⚙️ **Features**
 
-*— Faster fishing-related interactions*
-*— Optimised reel operation*
-*— Various gameplay adjustments relating to fishing*
-*— Reduced waiting times and repetitive actions*
+1. Faster fishing-related interactions
+2. Optimised reel operation
+3. Various gameplay adjustments relating to fishing
+4. Reduced waiting times and repetitive actions
 
 # **📦 Installation**
 
