@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue)
 ![Downloads](https://img.shields.io/github/downloads/wretchedoutli/How-to-Fish-Trainer-Pro/total)
 
-#📖 Contents
+#**📖 Contents**
 
 - [✨ Features](##-features)
 - [📦 Installation](##-installation)
