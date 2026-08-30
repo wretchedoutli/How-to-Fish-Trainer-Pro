@@ -1,4 +1,4 @@
-[![435c5ce4-62b5-47d5-92f0-8dfc20d416ab.png](https://i.postimg.cc/N0Hs1YtL/435c5ce4-62b5-47d5-92f0-8dfc20d416ab.png)](https://postimg.cc/zLqYrsV1)
+[![4ceaa99f-7f72-42db-b819-22ad2300e6ae.png](https://i.postimg.cc/qRJFpX1c/4ceaa99f-7f72-42db-b819-22ad2300e6ae.png)](https://postimg.cc/jW1cXN0C)
 # **How to Fish Trainer**
 
 ![License](https://img.shields.io/badge/License-MIT-red)
